@@ -3,7 +3,7 @@ You can get your own ID or you can get chat ID (need to add bot into a chat if i
 Use docker-compose
 
 ```yaml
-version: '3.6'`
+version: '3.6'
 
 services:
   bot:
